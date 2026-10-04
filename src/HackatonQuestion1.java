@@ -41,7 +41,7 @@ public class HackatonQuestion1 {
             System.out.println("More Waste Collection Required");
         }
 
-        //Methods:
+        //Methods::
 
         System.out.println("");
         System.out.println("Waste collected at point 1 :- ");
